@@ -2,6 +2,8 @@
 dahdi-linux-grsec
 linux-grsec
 xtables-addons-grsec
+spl-grsec
+zfs-grsec
 
 acct
 alpine-base
@@ -116,5 +118,6 @@ xfsprogs
 wireless-tools
 wpa_supplicant
 xtables-addons
+zfs
 zonenotify
 
